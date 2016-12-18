@@ -1,0 +1,1 @@
+This is to be a starter for node mvc websites
