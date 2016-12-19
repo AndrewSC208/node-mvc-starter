@@ -9,6 +9,9 @@ To do:
 				-- js cs   (styles)
 		- Injecting CSS and JS ref
 		- Auto restart
+
+// == RESUME BELOW == //
+
 3. Add Templating Engin (ejs)
 4. Add Database (mongo)
 5. Add auth (passport)
