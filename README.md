@@ -12,7 +12,11 @@ To do:
 
 // == RESUME BELOW == //
 
-3. Add Templating Engin (ejs)
+3. Add Templating Engine (ejs)
 4. Add Database (mongo)
 5. Add auth (passport)
 6. Third party api
+
+
+
+
